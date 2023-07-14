@@ -1,0 +1,15 @@
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\bin\Debug\net6.0\interfaceTest.exe
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\bin\Debug\net6.0\interfaceTest.deps.json
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\bin\Debug\net6.0\interfaceTest.runtimeconfig.json
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\bin\Debug\net6.0\interfaceTest.dll
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\bin\Debug\net6.0\interfaceTest.pdb
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\obj\Debug\net6.0\interfaceTest.csproj.AssemblyReference.cache
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\obj\Debug\net6.0\interfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\obj\Debug\net6.0\interfaceTest.AssemblyInfoInputs.cache
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\obj\Debug\net6.0\interfaceTest.AssemblyInfo.cs
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\obj\Debug\net6.0\interfaceTest.csproj.CoreCompileInputs.cache
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\obj\Debug\net6.0\interfaceTest.dll
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\obj\Debug\net6.0\refint\interfaceTest.dll
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\obj\Debug\net6.0\interfaceTest.pdb
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\obj\Debug\net6.0\interfaceTest.genruntimeconfig.cache
+C:\Users\FP2301321\source\repos\interfaceTest\interfaceTest\obj\Debug\net6.0\ref\interfaceTest.dll
